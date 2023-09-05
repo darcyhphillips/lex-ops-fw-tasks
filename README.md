@@ -15,4 +15,4 @@ This Lambda function code was created for a demo to show how Lex interacts with 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. Lex front end must be set up first before the Lambda function code provided can be used. I have modified the Lambda function code provided in the above tutorial to work for updating existing security group rules. This is not code that can be put directly into your environment without a decent amount of modifications. 
+Lex's front end must be set up first before the Lambda function code provided can be used. I have modified the Lambda function code provided in the above tutorial to work for updating existing security group rules. This is not code that can be put directly into your environment without a decent amount of modifications. 
